@@ -29,7 +29,7 @@
     "sass-loader": "^7.0.3",
     "vue-lazyload": "^1.2.6",
     "vue-moment": "^4.1.0",
-    "snyk": "^1.373.1"
+    "snyk": "^1.624.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
